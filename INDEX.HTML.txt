@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BAD LUKE BRIAN - Memecoin su Solana</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>BAD LUKE BRIAN</h1>
+    </header>
+    <div class="container">
+        <div class="image-container">
+            <img src="bad-luck-base.png" alt="BAD LUKE BRIAN Image">
+        </div>
+        <p class="description">
+            Benvenuti nel sito della nostra memecoin su Solana! Unitevi alla rivoluzione di BAD LUKE BRIAN e scoprite di più sul nostro progetto.
+        </p>
+        <div class="buttons">
+            <a href="#buy">Compra ora</a>
+            <a href="#community">Unisciti alla community</a>
+        </div>
+    </div>
+</body>
+</html>

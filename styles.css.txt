@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+}
+header h1 {
+    margin: 0;
+}
+.image-container {
+    margin: 20px 0;
+}
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.buttons {
+    margin: 20px 0;
+}
+.buttons a {
+    text-decoration: none;
+    color: white;
+    background-color: #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 0 10px;
+}
+.description {
+    font-size: 1.2em;
+    margin: 20px 0;
+}
